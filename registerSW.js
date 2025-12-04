@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/way-2-lose-fat-/sw.js', { scope: '/way-2-lose-fat-/' })})}
