@@ -29,5 +29,5 @@ export default defineConfig({
       }
     })
   ],
-  base: '/weights-monitor/',
+  base: '/way-2-lose-fat-/',
 })

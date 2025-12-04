@@ -2,6 +2,7 @@
   "name": "weights-monitor",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dorbr.github.io/way-2-lose-fat-",
   "type": "module",
   "scripts": {
     "dev": "vite",
